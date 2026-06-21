@@ -16,6 +16,8 @@ This route implements the scenario with:
 - `docs/tooling_and_workflow.md`
 - `docs/deployment_sequence.md`
 - `docs/cost_model.md`
+- `docs/architecture_workflow.md`
+- `docs/integrity_security_controls.md`
 - `terraform/README.md`
 
 ## Route Intent
